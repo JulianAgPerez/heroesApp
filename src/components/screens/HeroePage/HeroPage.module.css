@@ -1,0 +1,13 @@
+.containerHeroPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vh;
+    height: 100%;
+}
+.containerImgHeroPage{
+padding: 0.4rem;
+}
+.containerImgHeroPage img{
+    border-radius: .4rem;
+}
